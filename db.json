@@ -1,0 +1,18 @@
+{
+  "employeeDetails": [
+    {
+      "id": "f54e",
+      "employeeName": "Hari",
+      "age": "25",
+      "designation": "FullStack Developer",
+      "salary": "30000"
+    },
+    {
+      "id": "1bde",
+      "employeeName": "Mathew",
+      "age": "30",
+      "designation": "Manager",
+      "salary": "70000"
+    }
+  ]
+}
